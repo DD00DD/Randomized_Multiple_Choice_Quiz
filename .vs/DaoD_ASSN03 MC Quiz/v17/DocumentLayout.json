@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DaoD_ASSN03 MC Quiz_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3F0B90-EC12-456F-84EC-EF51D3750B9E}|DaoD_ASSN03 MC Quiz\\DaoD_ASSN03 MC Quiz.vbproj|E:\\DaoD_ASSN03 MC Quiz_V2\\daod_assn03 mc quiz\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE3F0B90-EC12-456F-84EC-EF51D3750B9E}|DaoD_ASSN03 MC Quiz\\DaoD_ASSN03 MC Quiz.vbproj|solutionrelative:daod_assn03 mc quiz\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3F0B90-EC12-456F-84EC-EF51D3750B9E}|DaoD_ASSN03 MC Quiz\\DaoD_ASSN03 MC Quiz.vbproj|e:\\daod_assn03 mc quiz_v2\\daod_assn03 mc quiz\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AE3F0B90-EC12-456F-84EC-EF51D3750B9E}|DaoD_ASSN03 MC Quiz\\DaoD_ASSN03 MC Quiz.vbproj|solutionrelative:daod_assn03 mc quiz\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\DaoD_ASSN03 MC Quiz_V2\\DaoD_ASSN03 MC Quiz\\Form1.vb",
+              "RelativeDocumentMoniker": "DaoD_ASSN03 MC Quiz\\Form1.vb",
+              "ToolTip": "E:\\DaoD_ASSN03 MC Quiz_V2\\DaoD_ASSN03 MC Quiz\\Form1.vb",
+              "RelativeToolTip": "DaoD_ASSN03 MC Quiz\\Form1.vb",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T00:31:17.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\DaoD_ASSN03 MC Quiz_V2\\DaoD_ASSN03 MC Quiz\\Form1.vb",
+              "RelativeDocumentMoniker": "DaoD_ASSN03 MC Quiz\\Form1.vb",
+              "ToolTip": "E:\\DaoD_ASSN03 MC Quiz_V2\\DaoD_ASSN03 MC Quiz\\Form1.vb [Design]",
+              "RelativeToolTip": "DaoD_ASSN03 MC Quiz\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T00:30:57.1Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

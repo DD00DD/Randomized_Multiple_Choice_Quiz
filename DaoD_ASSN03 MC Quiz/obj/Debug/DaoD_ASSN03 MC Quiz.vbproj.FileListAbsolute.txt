@@ -1,0 +1,24 @@
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.exe.config
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.exe
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.pdb
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.xml
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.vbprojAssemblyReference.cache
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03_MC_Quiz.Form1.resources
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03_MC_Quiz.Resources.resources
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.vbproj.GenerateResource.cache
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.vbproj.CoreCompileInputs.cache
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.exe
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.xml
+D:\DaoD_ASSN03 MC Quiz\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.pdb
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.exe.config
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.exe
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.pdb
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\bin\Debug\DaoD_ASSN03 MC Quiz.xml
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.vbproj.AssemblyReference.cache
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03_MC_Quiz.Form1.resources
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03_MC_Quiz.Resources.resources
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.vbproj.GenerateResource.cache
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.vbproj.CoreCompileInputs.cache
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.exe
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.xml
+E:\DaoD_ASSN03 MC Quiz_V2\DaoD_ASSN03 MC Quiz\obj\Debug\DaoD_ASSN03 MC Quiz.pdb
